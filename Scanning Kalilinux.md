@@ -2,7 +2,7 @@
 
 Nmap scanning
 
-![image](https://github.com/user-attachments/assets/caaaab4a-77f7-4dce-a03d-623957470d91)
+![image](https://github.com/user-attachments/assets/086dea4f-c0de-4c5e-8f01-073e1c1acbdf)
 
 Zenmap scanning
 
